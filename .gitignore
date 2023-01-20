@@ -1,9 +1,4 @@
 .idea/
 .DS_Store
 __pycache__/
-character/.DS_Store
-character/__pycache__/
-character/ascii/.DS_Store
-character/ascii/__pycache__/
-character/plot/.DS_Store
-character/plot/__pycache__/
+
